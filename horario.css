@@ -1,0 +1,28 @@
+table{
+    border-collapse: collapse; 
+}
+td, th{
+    border: 1px solid black ;
+    padding: 4px;
+    
+}
+
+#empresa{
+    background-color: #C8EAD9;
+}
+#diseno{
+    background-color: #B7C377 ;
+}
+#cliente{
+    background-color: #B0C493;
+}
+#servidor{
+    background-color: #9E8598;
+}
+#despliegue{
+    background-color: #C9D9B4 ;
+}
+
+#horas{
+    background-color: #AEAFC1;
+}
